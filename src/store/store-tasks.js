@@ -1,3 +1,6 @@
+import Vue from 'vue'
+import { uid } from 'quasar'
+
 const state = {
 	tasks: {
 		'ID1': {
