@@ -75,7 +75,6 @@
 <script>
   import { mapState, mapActions } from 'vuex'
   import { openURL } from 'quasar'
-
   export default {
     name: 'MyLayout',
     data () {
